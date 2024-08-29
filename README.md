@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MIKEL
-Entusiasta de la electricidad, electrónica y la automatización
-Mi pasión por estos temas me lleva a seguir formándome y experimentar
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MIKEL
+## Entusiasta de la electricidad, electrónica y la automatización
+### Mi pasión por estos temas me lleva a seguir formándome y experimentar
 * ✉️  You can contact me at [ia.mikelsanz@gmail.com](mailto:ia.mikelsanz@gmail.com)
 * * 🧠  I'm learning Machine Learning
 
