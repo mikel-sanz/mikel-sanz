@@ -4,6 +4,10 @@
 
 ## Entusiasta de la electricidad, electrónica y la automatización
 ### Mi pasión por estos temas me lleva a seguir formándome y experimentar
+
+Ahora se abre una nueva etapa, la IA, ciencia de datos y Machine Learning 🦾
+
+
 * ✉️  You can contact me at [ia.mikelsanz@gmail.com](mailto:ia.mikelsanz@gmail.com)
 * * 🧠  I'm learning Machine Learning
   * <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
